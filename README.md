@@ -1,7 +1,7 @@
 # INF2001_P7-5
 
 # Prototype
-URL to prototype: https://www.figma.com/proto/g8emADZ7lQzI4DJQVBhgUG/INF2001?type=design&node-id=57-925&t=WPFsUrT1jDL9rhpW-1&scaling=contain&page-id=2%3A2138&starting-point-node-id=7%3A16&mode=design
+URL to prototype: [https://www.figma.com/proto/g8emADZ7lQzI4DJQVBhgUG/INF2001?type=design&node-id=57-925&t=WPFsUrT1jDL9rhpW-1&scaling=contain&page-id=2%3A2138&starting-point-node-id=7%3A16&mode=design](https://www.figma.com/proto/g8emADZ7lQzI4DJQVBhgUG/INF2001?type=design&node-id=7-16&t=QRU1edebAwBxpJqD-1&scaling=contain&page-id=2%3A2138&starting-point-node-id=7%3A16&mode=design)
 
 Our team have created Figma prototype with three main actors involved:
 - IT Administrator
